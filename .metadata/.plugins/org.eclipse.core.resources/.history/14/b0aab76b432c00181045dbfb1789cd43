@@ -1,0 +1,11 @@
+package cl.gmunoz;
+
+public class Demo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Journal j = new Journal();
+		j.addEntry("Hoy estoy feliz");
+	}
+
+}

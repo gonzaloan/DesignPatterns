@@ -1,0 +1,28 @@
+package cl.gmunoz;
+
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.PrintStream;
+
+public class B_Persistence {
+
+	/**
+	 * Acá DEBERÍA ir  toda la persistencia.  
+	 * 
+	 */
+	
+	
+	
+	public void saveToFile(B_JournalSinSRP journal, String filename, boolean overwrite) throws FileNotFoundException{
+		if(overwrite || new File(filename).exists()){
+			try(PrintStream out = new PrintStream(filename)){
+				out.println(toString());
+			}
+		}
+	}
+	
+	public B_JournalSinSRP load(String filename){
+		return null;
+	}
+
+}

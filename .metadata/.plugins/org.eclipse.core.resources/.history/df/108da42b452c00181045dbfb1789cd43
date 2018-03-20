@@ -1,0 +1,8 @@
+package cl.gmunoz;
+
+public class B_Persistence {
+
+	public void saveToFile(B_JournalSinSRP journal, String filename, boolean overwrite){
+		
+	}
+}

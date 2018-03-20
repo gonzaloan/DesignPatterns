@@ -1,0 +1,15 @@
+package cl.gmunoz;
+
+public class B_DemoSinSPR {
+
+	public static void main(String[] args) throws Exception {
+		// TODO Auto-generated method stub
+		B_JournalSinSRP j = new B_JournalSinSRP();
+		j.addEntry("Hoy estoy feliz");
+		j.addEntry("Hoy almorcé");
+		System.out.println(j); // Esto llama a un to.String
+		
+		
+	}
+
+}

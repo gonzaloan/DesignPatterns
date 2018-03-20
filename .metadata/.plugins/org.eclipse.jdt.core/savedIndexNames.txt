@@ -1,0 +1,20 @@
+INDEX VERSION 1.127+C:\GONZALO\Gonzalo\Desarrollo Personal\Java\DesignPatterns\.metadata\.plugins\org.eclipse.jdt.core
+2162536109.index
+806875270.index
+720054023.index
+3740572444.index
+267507190.index
+2251817723.index
+3409692054.index
+3504693211.index
+901498705.index
+2833710374.index
+1670993873.index
+2848927279.index
+450771075.index
+3161399720.index
+2039190712.index
+3941550846.index
+385479696.index
+2491751048.index
+2565753650.index

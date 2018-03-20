@@ -11,7 +11,7 @@ public class A_Demo {
 		A_Journal j = new A_Journal();
 		j.addEntry("Hoy estoy feliz");
 		j.addEntry("Hoy almorcé");
-		System.out.println(j); // Esto llama a un to.String
+		System.out.println(j); // Esto llama a un toString
 		
 	
 		
